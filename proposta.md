@@ -30,6 +30,8 @@
     - Fila
 
 ## Bônus track (havendo tempo e interesse)
++ Busca binária
++ Algorítmos de ordenação
 + Deque
 + Lista de prioridades
 + Double stacks
